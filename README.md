@@ -4,7 +4,7 @@ Inspired by 2014 year plan in my repo. The content is important, while I will mo
 
 Goal:
 1. CFA level 1
-2. Summarize the code kits during my working experince
+2. Summarize the code kits during my working experience
 3. Summarize the books I read
 4. Others doesn' matter:
 
