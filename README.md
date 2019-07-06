@@ -9,14 +9,19 @@ Goal:
 	measured by response from my boss ?? no, measured by my own standard: code efficiency, stability, conditions handle( Ma Kun's overloads story)
 3. Summarize the books I read
 	measured by reading number perhaps (I can uploads articles in Douban or Wechat public number)
-4. Others doesn' matter:
+4. Summarize the travelling
 
-	4.1 Collection the world's na mi na mi na (something can not be expressed)
+
+
+Others doesn' matter:
+
+	1 Collection the world's na mi na mi na (something can not be expressed)
 	
-	4.2 Build my body
+	2 Build my body
 	
-	4.3 Blog
+	3 Blog
 	
 	
 
 p.s Measure construct a feedback system, to improve better.
+p.s Don't tell anyone untill you achieve the goal
