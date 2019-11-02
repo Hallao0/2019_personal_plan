@@ -4,3 +4,8 @@
 
 dry
 
+正交性
+
+代码生成器
+
+自己的toolkit, bash, script...
